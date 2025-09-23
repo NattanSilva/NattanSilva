@@ -36,5 +36,5 @@
 - 🌱 I’m currently learning: Bun, Fastify, Dizzle ORM, ElysiaJS.
 - 😄 Pronouns: Ele / Dele
 - ⚡ Fun fact: I'm addicted to programming!!
-- <a href="https://portfolio-nattansilva.vercel.app/" target="_blank">My Portfolio</a>
+- 🔗 <a href="https://portfolio-nattansilva.vercel.app/" target="_blank">My Portfolio</a>
 
